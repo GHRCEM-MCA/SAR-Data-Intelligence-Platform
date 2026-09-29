@@ -114,14 +114,13 @@ Selecting a village shows totals such as number of farmers, households, agricult
 
 ## 🛠️ Technology Stack
 
-> The final stack will be confirmed during the system design phase based on detailed requirements.
 
 | Layer | Technology |
 |-------|------------|
 | **Frontend** | React.js |
 | **Backend** | Node.js, Express.js |
-| **Database** | PostgreSQL / MongoDB |
-| **Data Visualization** | Charting and dashboard libraries (e.g., Chart.js, Recharts) |
+| **Database** | PostgreSQL |
+| **Data Visualization** | Chart.js |
 | **Dev Tools** | Git, GitHub, VS Code, Postman |
 
 ---
